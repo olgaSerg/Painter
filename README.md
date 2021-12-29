@@ -1,4 +1,4 @@
-![](https://github.com/olgaSerg/Painter/blob/master/painter.gif)
+![Painter app](https://github.com/olgaSerg/Painter/blob/master/painter.gif)
 # Painter
 Simple application for painting
 # Features
